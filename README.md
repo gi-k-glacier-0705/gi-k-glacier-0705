@@ -13,24 +13,26 @@ Usually, I am trying to find out what happens.
 ## Currently observing
 
 🧠 Humans behaving like humans  
-🌌 The universe refusing to explain itself  
+🌌 The universe being neither bothered nor explain itself  
 🧪 What happens when curiosity gets access to code  
 🕸 Systems, emergence, complexity — and occasionally CSS
 
 ## Method
 
 ```text
-notice something strange
+notice something new or remember something old
         ↓
-ask an inconvenient question
+ask for its definitions and environmental variables
         ↓
-research until it gets more complicated
+research those until I find all related systems 
         ↓
-build an experiment anyway
+visualize it LARPing
+        ↓
+try out its LARP costume 
         ↓
 see what happens
         ↓
-repeat
+eat Lunch
 ```
 
 ## Things I'm making
