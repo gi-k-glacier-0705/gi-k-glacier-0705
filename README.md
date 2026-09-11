@@ -1,21 +1,22 @@
 # Geek Gelasia
 
-### code · curiosity · humanity · cosmic wonder
+### code · curiosity · cosmic wonder · humanity · humor
 
 I build small digital things for large questions.
 
 Sometimes they are experiments.
 Sometimes they are observations.
-Sometimes they are machines that probably did not need to exist.
+Sometimes they are sanctuaries.
 
 Usually, I am trying to find out what happens.
 
 ## Currently observing
 
+🧪 What happens when curiosity gets access to code
 🧠 Humans behaving like humans  
-🌌 The universe being neither bothered nor explain itself  
-🧪 What happens when curiosity gets access to code  
+🌌 The universe being neither bothered nor explaining itself    
 🕸 Systems, emergence, complexity — and occasionally CSS
+🌱 Trees growing.
 
 ## Method
 
