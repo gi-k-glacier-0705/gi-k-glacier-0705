@@ -12,11 +12,11 @@ Usually, I am trying to find out what happens.
 
 ## Currently observing
 
-🧪 What happens when curiosity gets access to code
+🧪 What happens when curiosity gets access to code    
 🧠 Humans behaving like humans  
 🌌 The universe being neither bothered nor explaining itself    
-🕸 Systems, emergence, complexity — and occasionally CSS
-🌱 Trees growing.
+🕸 Systems, emergence, interconnection
+🌱 Trees growing slower than my CSS
 
 ## Method
 
@@ -48,13 +48,13 @@ Explorations of scale, perspective, science, and the peculiar experience of bein
 Interactive objects for thinking with your hands.
 
 **📜 Artifacts**  
-Writing, poetry, observations, and other things that somehow traveled down my arm while I was exploring the universe.
+Writing, poetry, observations, and other things that travel down my arm while I am exploring the universe.
 
 ## The fossil record
 
 Things do not usually arrive fully formed.
 
-Ideas mutate. Interfaces wander. Experiments fail. Projects become something else.
+Ideas mutate. Interfaces wander. Experiments fail. Projects become something else. inspiration comes from surprising places. 
 
 I keep some of the evidence.
 
