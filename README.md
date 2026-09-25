@@ -50,15 +50,13 @@ Interactive objects for thinking with your hands.
 **📜 Artifacts**  
 Writing, poetry, observations, and other things that travel down my arm while I am exploring the universe.
 
-## The fossil record
 
-Things do not usually arrive fully formed.
+## 🦴 The Fossil Record
 
-Ideas mutate. Interfaces wander. Experiments fail. Projects become something else. inspiration comes from surprising places. 
+Things do not usually arrive fully formed. Ideas mutate, interfaces wander, and experiments fail. I keep some of the evidence—not because every version was good, but because becoming is part of the work.
 
-I keep some of the evidence.
-
-Not because every version was good — but because becoming is part of the work.
+### 📫 Connect: 
+cosmicwonder@duck.com | 🔗 GeekGelasia.dev
 
 ---
 
