@@ -63,3 +63,27 @@ cosmicwonder@duck.com | 🔗 GeekGelasia.dev
 *Still becoming.*
 
 🌌 [Geek Gelasia](https://geekgelasia.dev) · 🪐 [Cosmic Wonder](https://geekgelasia.dev)
+
+```mermaid
+graph TD
+    %% User Entry Point
+    Visitor([Web Visitor]) --> DNS[Cloudflare DNS: geekgelasia.dev]
+    
+    %% Edge Security Layer
+    DNS --> WAF{Cloudflare WAF}
+    WAF -->|Blocked by Single-Rule| Drop((Dropped))
+    WAF -->|Clean Traffic| Router{Subdomain Routing}
+    
+    %% Routing Layer
+    Router -->|Main Domain| MainSite[Cloudflare Pages: Production]
+    Router -->|Custom Subdomains| ZT{Zero Trust Access}
+    
+    %% Authentication & Delivery
+    ZT -->|Authentication Failed| Deny((Denied))
+    ZT -->|Authenticated| ProtectedApp[Cloudflare Pages: Restricted Experiments]
+    
+    %% Deployment Pipeline
+    Dev([Local Development]) --> Git[GitLab / GitHub Repo]
+    Git -->|Commit & Push| CI[Cloudflare Build Pipeline]
+    CI -.->|Automated Deployment| MainSite
+    CI -.->|Automated Deployment| ProtectedApp
