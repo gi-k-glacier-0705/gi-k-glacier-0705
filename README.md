@@ -10,6 +10,28 @@ Sometimes they are sanctuaries.
 
 Usually, I am trying to find out what happens.
 
+```mermaid
+flowchart LR
+    Client([Client Request]) --> CF[Cloudflare Edge]
+    
+    subgraph Security Layer
+        CF --> WAF[WAF Single-Rule]
+        WAF --> ZT{Zero Trust Access}
+    end
+    
+    ZT -- Unauthenticated --> Block[Drop / Challenge]
+    ZT -- Authenticated --> DNS[Subdomain Routing]
+    
+    subgraph Deployments
+        DNS --> Main[geekgelasia.dev]
+        DNS --> Static[Cloudflare Pages / GitLab]
+    end
+
+    %% Styling
+    classDef secure stroke:#10B981,stroke-width:2px;
+    class ZT,WAF secure;
+```
+
 ## Currently observing
 
 🧪 What happens when curiosity gets access to code    
