@@ -64,7 +64,6 @@ cosmicwonder@duck.com | 🔗 GeekGelasia.dev
 
 🌌 [Geek Gelasia](https://geekgelasia.dev) · 🪐 [Cosmic Wonder](https://geekgelasia.dev)
 
-```markdown
+
 ![Cloudflare Pages](https://img.shields.io/badge/Hosted_on-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Security-Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-```
