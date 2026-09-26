@@ -67,3 +67,11 @@ cosmicwonder@duck.com | 🔗 GeekGelasia.dev
 
 ![Cloudflare Pages](https://img.shields.io/badge/Hosted_on-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Security-Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+```mermaid
+graph LR
+    A[User Request] --> B[Cloudflare Edge / WAF]
+    B --> C{Zero Trust Access}
+    C -->|Authenticated| D[Protected Staging / Admin]
+    B -->|Public Traffic| E[Cloudflare Pages]
+```
