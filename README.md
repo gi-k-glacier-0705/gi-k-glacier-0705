@@ -73,3 +73,23 @@ graph LR
     B --> C{Zero Trust Access}
     C -->|Authenticated| D[Protected Staging / Admin]
     B -->|Public Traffic| E[Cloudflare Pages]
+
+
+graph TD
+    Visitor([Web Visitor]) --> DNS["Cloudflare DNS: geekgelasia.dev"]
+    
+    DNS --> WAF{"Cloudflare WAF"}
+    WAF -->|Blocked by Single-Rule| Drop((Dropped))
+    WAF -->|Clean Traffic| Router{"Subdomain Routing"}
+    
+    Router -->|Main Domain| MainSite["Cloudflare Pages: Production"]
+    Router -->|Custom Subdomains| ZT{"Zero Trust Access"}
+    
+    ZT -->|Authentication Failed| Deny((Denied))
+    ZT -->|Authenticated| ProtectedApp["Cloudflare Pages: Restricted"]
+    
+    Dev([Local Development]) --> Git["GitLab / GitHub Repo"]
+    Git -->|Commit & Push| CI["Cloudflare Build Pipeline"]
+    CI -.->|Automated Deployment| MainSite
+    CI -.->|Automated Deployment| ProtectedApp
+
