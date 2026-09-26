@@ -30,7 +30,6 @@ flowchart LR
     %% Styling
     classDef secure stroke:#10B981,stroke-width:2px;
     class ZT,WAF secure;
-```
 
 ## Currently observing
 
