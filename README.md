@@ -2,11 +2,9 @@
 
 **code · curiosity · cosmic wonder · humanity · humor**
 
-I build small digital things for large questions. As a freelance web developer and digital artist, I build interactive habitats, experiments, and sanctuaries to find out what happens when curiosity gets access to code.
+I build small digital things for large questions, including digital sanctuaries & interactive art that explores the intersections of cosmology, neuroscience research, biomechanic-electromagnetism, and philosophical wisdom.
 
-### **🛠️ The Toolkit**
-
-*What I use to build the universe:*
+### **🛠️ My Toolkit**
 
   * **Frontend Architecture:** HTML, CSS, JavaScript, React, Tailwind CSS
   * **Infrastructure & Security:** Cloudflare Pages, Zero Trust access controls, WAF configurations, GitLab
@@ -52,7 +50,7 @@ graph LR
 
 ### **🔬 The Method**
 
-notice something new or remember something old  
+notice something new or remember something old 
 ↓  
 define environmental variables and related systems  
 ↓  
@@ -62,11 +60,11 @@ deploy, observe, and adapt
 ↓  
 eat lunch
 
-### **🦴 The Fossil Record**
+### **🦴 The Artifacts**
 
 Things do not usually arrive fully formed. Ideas evolve, interfaces update, and some experiments fail. The synchronicity of creative forces surprises me after I let go of trying and play instead. I keep some of the evidence—not because every version was good, but because *becoming* is part of the art.
 
-My first version of what is now GeekGelasia.dev -> 🔭 Cosmic Wonder 
+My first version of what is now GeekGelasia.dev -> 🔭 [Cosmic Wonder](https://github.com/gi-k-glacier-0705/cosmic-wonder)
 
 ### 📫 **Connect:**
 cosmicwonder@duck.com | 🔗 [GeekGelasia.dev](https://geekgelasia.dev)
