@@ -1,45 +1,16 @@
-# Geek Gelasia
+# **Geek Gelasia**
 
-### code · curiosity · cosmic wonder · humanity · humor
+**code · curiosity · cosmic wonder · humanity · humor**
 
-I build small digital things for large questions.
+I build small digital things for large questions. As a freelance web developer and digital artist, I build interactive habitats, experiments, and sanctuaries to find out what happens when curiosity gets access to code.
 
-Sometimes they are experiments.
-Sometimes they are observations.
-Sometimes they are sanctuaries.
+### **🛠️ The Toolkit**
 
-Usually, I am trying to find out what happens.
+*What I use to build the universe:*
 
-```mermaid
-flowchart LR
-    Client([Client Request]) --> CF[Cloudflare Edge]
-    
-    subgraph Security Layer
-        CF --> WAF[WAF Single-Rule]
-        WAF --> ZT{Zero Trust Access}
-    end
-    
-    ZT -- Unauthenticated --> Block[Drop / Challenge]
-    ZT -- Authenticated --> DNS[Subdomain Routing]
-    
-    subgraph Deployments
-        DNS --> Main[geekgelasia.dev]
-        DNS --> Static[Cloudflare Pages / GitLab]
-    end
-
-    %% Styling
-    classDef secure stroke:#10B981,stroke-width:2px;
-    class ZT,WAF secure;
-```
-
-
-## Currently observing
-
-🧪 What happens when curiosity gets access to code    
-🧠 Humans behaving like humans  
-🌌 The universe being neither bothered nor explaining itself    
-🕸 Systems, emergence, interconnection
-🌱 Trees growing slower than my CSS
+  * **Frontend Architecture:** HTML, CSS, JavaScript, React, Tailwind CSS
+  * **Infrastructure & Security:** Cloudflare Pages, Zero Trust access controls, WAF configurations, GitLab
+  * **Digital Art & UI:** Zenga abstract aesthetics, sumi-e ink wash illustration, interactive audio-visual components
 
 ```mermaid
 %%{init: {'themeVariables': { 'fontSize': '16px', 'fontFamily': 'sans-serif'}}}%%
@@ -69,54 +40,36 @@ graph LR
     CI -.->|Deploy| MainSite
     CI -.->|Deploy| ProtectedApp
 ```
+![Cloudflare Pages](https://img.shields.io/badge/Hosted_on-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Security-Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
+### **🔭 Currently Observing & Building**
 
-## Method
+  * 🌌 [**Geek Gelasia**](https://geekgelasia.dev): A digital habitat for experiments in curiosity.
+  * 🪐 **Cosmic Wonder:** Explorations of scale, perspective, science, and the peculiar experience of being a small creature in a very large universe.
+  * 🏛️ **Interactive Artifacts:** Digital demonstrations bridging classical philosophy (like Epictetus's *Enchiridion*) with modern web architecture.
+  * 🕸️ **Systems & Emergence:** Watching trees grow slower than my CSS.
 
-```text
-notice something new or remember something old
-        ↓
-ask for its definitions and environmental variables
-        ↓
-research those until I find all related systems 
-        ↓
-visualize it LARPing
-        ↓
-try out its LARP costume 
-        ↓
-see what happens
-        ↓
-eat Lunch
-```
+### **🔬 The Method**
 
-## Things I'm making
+notice something new or remember something old  
+↓  
+define environmental variables and related systems  
+↓  
+build the prototype (visualize & LARP)  
+↓  
+deploy, observe, and adapt  
+↓  
+eat lunch
 
-**🌌 Geek Gelasia**  
-A digital habitat for experiments in curiosity.
+### **🦴 The Fossil Record**
 
-**🪐 Cosmic Wonder**  
-Explorations of scale, perspective, science, and the peculiar experience of being a small creature in a very large universe.
+Things do not usually arrive fully formed. Ideas mutate, interfaces wander, and experiments fail. I keep some of the evidence—not because every version was good, but because *becoming* is part of the work.
 
-**🧪 Machines & experiments**  
-Interactive objects for thinking with your hands.
-
-**📜 Artifacts**  
-Writing, poetry, observations, and other things that travel down my arm while I am exploring the universe.
-
-
-## 🦴 The Fossil Record
-
-Things do not usually arrive fully formed. Ideas mutate, interfaces wander, and experiments fail. I keep some of the evidence—not because every version was good, but because becoming is part of the work.
-
-### 📫 Connect: 
-cosmicwonder@duck.com | 🔗 GeekGelasia.dev
+📫 **Connect:** cosmicwonder@duck.com | 🔗 [GeekGelasia.dev](https://geekgelasia.dev)
 
 ---
 
 *Still becoming.*
 
 🌌 [Geek Gelasia](https://geekgelasia.dev) · 🪐 [Cosmic Wonder](https://geekgelasia.dev)
-
-
-![Cloudflare Pages](https://img.shields.io/badge/Hosted_on-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Security-Zero_Trust-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
