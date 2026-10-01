@@ -41,6 +41,36 @@ flowchart LR
 🕸 Systems, emergence, interconnection
 🌱 Trees growing slower than my CSS
 
+```mermaid
+%%{init: {'themeVariables': { 'fontSize': '16px', 'fontFamily': 'sans-serif'}}}%%
+graph LR
+    %% Define Custom Colors
+    classDef visitor fill:#9b59b6,color:#fff,stroke:#fff,stroke-width:2px
+    classDef cloudflare fill:#f38020,color:#fff,stroke:#fff,stroke-width:2px
+    classDef secure fill:#2ecc71,color:#fff,stroke:#fff,stroke-width:2px
+    classDef blocked fill:#e74c3c,color:#fff,stroke:#fff,stroke-width:2px
+    classDef git fill:#34495e,color:#fff,stroke:#fff,stroke-width:2px
+
+    %% Flowchart Nodes
+    Visitor([Web Visitor]):::visitor --> DNS["DNS Routing"]:::cloudflare
+    
+    DNS --> WAF{"WAF Rule"}:::cloudflare
+    WAF -->|Blocked| Drop((Dropped)):::blocked
+    WAF -->|Clean| Router{"Subdomain"}:::cloudflare
+    
+    Router -->|Main| MainSite["Pages: Prod"]:::secure
+    Router -->|Custom| ZT{"Zero Trust"}:::cloudflare
+    
+    ZT -->|Failed| Deny((Denied)):::blocked
+    ZT -->|Auth'd| ProtectedApp["Pages: Restricted"]:::secure
+    
+    Dev([Local Dev]):::git --> Git["Git Repo"]:::git
+    Git -->|Commit| CI["Build Pipeline"]:::cloudflare
+    CI -.->|Deploy| MainSite
+    CI -.->|Deploy| ProtectedApp
+```
+
+
 ## Method
 
 ```text
