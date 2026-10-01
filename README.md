@@ -45,9 +45,9 @@ graph LR
 
 ### **🔭 Currently Observing & Building**
 
-  * 🌌 [**Geek Gelasia**](https://geekgelasia.dev): A digital habitat for experiments in curiosity.
-  * 🪐 **Cosmic Wonder:** Explorations of scale, perspective, science, and the peculiar experience of being a small creature in a very large universe.
-  * 🏛️ **Interactive Artifacts:** Digital demonstrations bridging classical philosophy (like Epictetus's *Enchiridion*) with modern web architecture.
+  * 🌌 [**Geek Gelasia**](https://geekgelasia.dev):: A digital sanctuary for experiments in contemplative curiosity.
+  * 🪐 **Cosmic Wonder:** Explorations of scale, perspective, science, and the peculiar experience of being a small creature in a very large universe. Based on Kepler’s Laws of Planetary Motion:: 🪐 [Orrery Chord](https://keplers-chord.geekgelasia.dev/) ✨
+  * 🏛️ **Interactive Artifacts:** Digital demonstrations bridging classical philosophy (like Epictetus's *Enchiridion*) with modern web architecture. *Coming Soon!*
   * 🕸️ **Systems & Emergence:** Watching trees grow slower than my CSS.
 
 ### **🔬 The Method**
@@ -64,12 +64,13 @@ eat lunch
 
 ### **🦴 The Fossil Record**
 
-Things do not usually arrive fully formed. Ideas mutate, interfaces wander, and experiments fail. I keep some of the evidence—not because every version was good, but because *becoming* is part of the work.
+Things do not usually arrive fully formed. Ideas evolve, interfaces update, and some experiments fail. The synchronicity of creative forces surprises me after I let go of trying and play instead. I keep some of the evidence—not because every version was good, but because *becoming* is part of the art.
 
-📫 **Connect:** cosmicwonder@duck.com | 🔗 [GeekGelasia.dev](https://geekgelasia.dev)
+My first version of what is now GeekGelasia.dev -> 🔭 Cosmic Wonder 
+
+### 📫 **Connect:**
+cosmicwonder@duck.com | 🔗 [GeekGelasia.dev](https://geekgelasia.dev)
 
 ---
 
-*Still becoming.*
-
-🌌 [Geek Gelasia](https://geekgelasia.dev) · 🪐 [Cosmic Wonder](https://geekgelasia.dev)
+If any of this confused you -> go read The Creative Act by Rick Rubin
