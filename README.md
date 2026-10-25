@@ -162,4 +162,4 @@ graph LR
 
 ---
 
-*If any of this confused you → go read* [*The Creative Act*](https://www.penguinrandomhouse.com/books/717409/the-creative-act-by-rick-rubin/) *by Rick Rubin.*
+*If any of this confused you → go read* [*The Creative Act*](https://www.penguinrandomhouse.com/books/717356/the-creative-act-by-rick-rubin/) *by Rick Rubin.*
