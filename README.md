@@ -8,17 +8,17 @@ Pronouns: she/her
 
 *Geek Gelasia* is a poetic, ironic combination of modern intellectual enthusiasm and classical, lighthearted joy.
 
-I'm an academic artist, emerging developer, and digital sanctuary creator, blending systems logic with human-centered accessibility. Part walking encyclopedia, part hardware tinkerer, and entirely driven by intentional, cross-disciplinary curiosity.
+I'm an academic artist, emerging developer, and digital sanctuary creator, blending systems logic with human-centered accessibility. Part walking encyclopedia, part recovering IT Field Technician, and entirely driven by intentional, cross-disciplinary curiosity.
 
 I build small digital things for large questions: digital sanctuaries, interactive art, and thoughtful web experiences exploring the intersections of cosmology, neuroscience, biomechanics, electromagnetism, and philosophical wisdom.
 
-I'm still learning the craft of software development. But questioning defaults, thinking about failure modes, and asking what could go wrong are habits I brought with me.
+I'm still learning the craft of software development. But questioning defaults, thinking about failure modes, and asking what could go wrong are habits I brought with me. I may be an artist but I was raised by aerospace engineers. 
 
-Around here, you'll find experiments, practical tools, security-conscious web development, philosophical explorations, and occasional excursions into the delightfully strange.
+Around here, you'll find experiments, aspiring practical tools, security-conscious web development, philosophical explorations, and occasional excursions into the delightfully strange.
 
 **The work is a work in progress. So am I.**
 
-If something here sparks your curiosity, explore it, challenge it, improve it, or build on it.
+If something here sparks your curiosity, I encourage you to explore it, challenge it, or build your own version. [send me feedback](report@geekgelasia.dev)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gi-k-glacier-0705&color=brightgreen)
 
