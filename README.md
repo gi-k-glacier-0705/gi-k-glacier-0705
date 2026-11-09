@@ -35,7 +35,7 @@ If something here sparks your curiosity, I encourage you to explore it, challeng
 - 📧 **Email:** [info@geekgelasia.dev](mailto:info@geekgelasia.dev)
 - 🌐 **Portfolio:** [GeekGelasia.dev](https://geekgelasia.dev/)
 - 🎨 **Portfolio:** [Keplers 3rd Law: Harmonics](https://keplers-chord.geekgelasia.dev/)
-- ☯ **Portfolio:** [The Soft Overcomes The Hard (Tao Te Ching Visualizer](https://soft-overcomes-geekgelasia.dev/)
+- ☯ **Portfolio:** [The Soft Overcomes The Hard (Tao Te Ching Visualizer)](https://soft-overcomes-geekgelasia.dev/)
 - 🧵 **GitLab:** [GiikGelasia](https://gitlab.com/GiikGelasia)
 
 ## My Mission
