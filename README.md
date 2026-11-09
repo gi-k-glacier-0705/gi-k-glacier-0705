@@ -32,8 +32,10 @@ If something here sparks your curiosity, I encourage you to explore it, challeng
 - ♿ **My values:** Accessibility, human agency, intellectual integrity, and non-coercive exploration
 - 🏗️ **My craft:** Dependency-light builds, thoughtful frontends, and meaningful digital experiences
 - 🛠️ **My learning:** Building, experimenting, troubleshooting, and learning in public
-- 📧 **Email:** [cosmicwonder@duck.com](mailto:cosmicwonder@duck.com)
+- 📧 **Email:** [info@geekgelasia.dev](mailto:info@geekgelasia.dev)
 - 🌐 **Portfolio:** [GeekGelasia.dev](https://geekgelasia.dev/)
+- 🎨 **Portfolio:** [Keplers 3rd Law: Harmonics](https://keplers-chord.geekgelasia.dev/)
+- ☯ **Portfolio:** [The Soft Overcomes The Hard (Tao Te Ching Visualizer](https://soft-overcomes-geekgelasia.dev/)
 - 🧵 **GitLab:** [GiikGelasia](https://gitlab.com/GiikGelasia)
 
 ## My Mission
